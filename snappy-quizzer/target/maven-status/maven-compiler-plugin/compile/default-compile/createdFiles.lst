@@ -1,0 +1,7 @@
+com/deegeu/trivia/model/TriviaQuestionBuilder.class
+com/deegeu/trivia/model/TriviaQuestion.class
+com/deegeu/TriviaApp.class
+com/deegeu/trivia/model/TriviaQuestionArrayAccess.class
+com/deegeu/trivia/endpoints/TriviaQuestionEndpoint.class
+com/deegeu/App.class
+com/deegeu/trivia/model/TriviaQuestionAccessible.class
