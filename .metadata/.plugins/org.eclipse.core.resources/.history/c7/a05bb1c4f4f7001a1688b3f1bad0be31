@@ -1,0 +1,19 @@
+package com.deegeu.trivia.model;
+
+import static org.junit.Assert.assertNotNull;
+
+import java.util.List;
+
+import org.junit.Test;
+
+public class TriviaQuestionArrayAccessTest {
+
+	@Test
+	public void testGetQuestionList() {
+		long offset = 0L;
+		TriviaQuestionArrayAccess acc = new TriviaQuestionArrayAccess();
+		List<TriviaQuestion> quList =  acc.getQuestionList(offset);
+		assertNotNull("Whatever was tested", quList);
+		assert(quList.size() > 0);
+	}
+}

@@ -1,0 +1,5 @@
+package com.deegeu.trivia.model;
+
+public class TriviaQuestionArrayAccessTest {
+
+}

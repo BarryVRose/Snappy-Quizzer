@@ -1,9 +1,7 @@
 package com.deegeu.trivia.model;
 
 import static org.junit.Assert.assertNotNull;
-
 import java.util.List;
-
 import org.junit.Test;
 
 public class TriviaQuestionArrayAccessTest {
